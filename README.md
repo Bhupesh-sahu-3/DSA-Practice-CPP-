@@ -3,7 +3,7 @@
 
 This repository contains my DSA practice Solutions in C++ <br>
 
-##Topics Covered <br>
+##Topics Covered 👇<br>
 -Basics<br>
 -Sorting Techniques<br>
 -Bit Manipulation<br>

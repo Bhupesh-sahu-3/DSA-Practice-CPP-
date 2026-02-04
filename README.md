@@ -24,3 +24,8 @@ This repository contains my DSA practice Solutions in C++. <br>
 - [ ] Tries<br>
 - [ ] Strings(Hard)<br>
 
+---
+##GOAL <br>
+- Solve 300+ DSA Problems <br>
+- Improve problem solving skills <br>
+- Prepare for coding interviews <br>

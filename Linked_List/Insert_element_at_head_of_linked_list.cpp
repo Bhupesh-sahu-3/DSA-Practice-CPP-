@@ -65,7 +65,7 @@ int main()
     int value;
     cout << "Enter the value to be inserted:";
     cin >> value;
-    head = insertAtHead(head, value); // insert element at given position
+    head = insertAtHead(head, value); // insert element at head
 
     printLL(head); // display Linked list
 }

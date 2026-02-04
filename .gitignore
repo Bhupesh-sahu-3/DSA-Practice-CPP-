@@ -1,0 +1,6 @@
+# Ignore executable files
+*.exe
+*.out
+*.o
+*.obj
+.vscode/

@@ -1,24 +1,31 @@
-# DSA Practice in C++
+# DSA Practice in C++ ⭐
+<br>
+This repository contains my DSA practice Solutions in C++. <br>
 
-This repository contains my DSA practice Solutions in C++
+--- 
 
-##Topics Covered
--Basics
--Sorting Techniques
--Bit Manipulation
--Arrays
--Binary Search
--Strings
--Recursion & Backtracking
--Linked List
--Stack and Queues
--Sliding Window & Two pointer combined problems
--Heaps
--Greedy Algorithms
--Binary Trees
--Binary Search Trees
--Graphs
--Dynamic programming
--Tries
--Strings
+## Topics Covered 👇<br>
+- [ ] Basics<br>
+- [ ] Sorting Techniques<br>
+- [ ] Bit Manipulation<br>
+- [ ] Arrays<br>
+- [ ] Binary Search<br>
+- [ ] Strings<br>
+- [ ] Recursion & Backtracking<br>
+- [ ] Linked List<br>
+- [ ] Stack and Queues<br>
+- [ ] Sliding Window & Two pointer Problems<br>
+- [ ] Heaps<br>
+- [ ] Greedy Algorithms<br>
+- [ ] Binary Trees<br>
+- [ ] Binary Search Trees<br>
+- [ ] Graphs<br>
+- [ ] Dynamic Programming<br>
+- [ ] Tries<br>
+- [ ] Strings(Hard)<br>
 
+---
+## GOAL <br>
+- Solve 300+ DSA Problems <br>
+- Improve problem solving skills <br>
+- Prepare for coding interviews <br>

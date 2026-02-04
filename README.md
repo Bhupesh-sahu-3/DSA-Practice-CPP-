@@ -1,8 +1,8 @@
 # DSA Practice in C++ ⭐
 <br>
-This repository contains my DSA practice Solutions in C++ <br>
+This repository contains my DSA practice Solutions in C++. <br>
 
---- <br>
+--- 
 
 ## Topics Covered 👇<br>
 - [ ] Basics<br>

@@ -47,25 +47,9 @@ void printDLL(Node *head)
     }
 }
 
-Node *deleteTail(Node *head)
-{
-    if (head == NULL || head->next == NULL)
-        return NULL; // return null or we can delete as well if only head present
-
-    Node *temp = head;
-    while (temp->next != NULL)
-        temp = temp->next;
-    Node *prev = temp->back;
-    prev->next = nullptr;
-    temp->back = nullptr;
-    delete temp;
-    return head;
-}
-
 int main()
 {
     vector<int> arr = {1, 2, 3, 4, 5};
     Node *head = convertArr2DLL(arr);
-    head = deleteTail(head);
     printDLL(head);
 }

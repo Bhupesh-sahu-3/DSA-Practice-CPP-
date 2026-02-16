@@ -92,7 +92,10 @@ int main()
     vector<int> arr = {1, 2, 3, 4, 5};
     Node *head = convertArr2DLL(arr);
 
+    //method1
     // head = reverseUsingStack(head);
+
+    //method2
     head = reverseLinks(head);
 
     printDLL(head);

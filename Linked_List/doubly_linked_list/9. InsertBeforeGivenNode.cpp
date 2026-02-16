@@ -64,7 +64,7 @@ Node *insertBeforeNode(Node *head, int value, int node)
     if (head == NULL)
         return NULL; // nothing present, insertion not possible
 
-    //you are not supposed to insert before head as it changes the head
+    // you are not supposed to insert before head as it changes the head
     int flag = 0;
     while (temp != NULL)
     {

@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// o(n^2) time
-// o(1) space
+//Best,average and worst case time complexity -> o(n^2)
+//space-> o(1)
+
 void selectionSort(int arr[], int n)
 {
 
